@@ -3,6 +3,8 @@
 Created on Wed Oct 30 20:39:20 2024
 
 @author: Alex
+
+This code trains and deploys the classification model whether the media article mentions governors engaging with the federal center
 """
 
 # Importing relevant packages
