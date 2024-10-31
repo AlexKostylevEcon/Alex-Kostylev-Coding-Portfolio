@@ -1,4 +1,4 @@
-# Hi Reader! 
+# Greetings! 
 I am Alex Kostylev and this depository contains the examples of my codes. 
 
 I have extensive experience of using Python for data analytics, including data generation and manipulation with Pandas, analysis and visualisation.
